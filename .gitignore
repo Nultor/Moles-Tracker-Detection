@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Personal data (db, images, crops) — never commit
+data/
+
+# Personal learning journal
+LEARNED.md
